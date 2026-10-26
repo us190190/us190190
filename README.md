@@ -1,6 +1,6 @@
 # Hi, I'm Utkarsh Singh 👋
 
-**Senior Principal Engineer** | 12+ Years Building & Scaling 0→1 Systems | AI/GenAI Platform Architect
+**Software Engineer** | 12+ Years Building & Scaling 0→1 Systems | AI/GenAI Platform Architect
 
 I specialize in designing resilient distributed systems, real-time event processors, high-throughput backends, and **AI-enabled agentic platforms** across **Fin-tech**, **Food-tech**, **Ed-tech**, **Travel-tech**, and **SaaS**.
 
@@ -19,10 +19,10 @@ Architecting AI-enabled platforms for enterprise clients across e-commerce, edte
 
 ### 🚀 Domain Impact Highlights
 
-- **Fintech (WazirX):** Architected multi-currency ledgers & idempotent payment pipelines; redesigned trading engine from market-centric to unified in-memory exchange — **99.5% → 99.99% uptime**, **35% latency reduction**, **100k orders/sec** throughput, **5× throughput improvement** across 10+ markets
-- **Foodtech (Hungerbox):** Built high-throughput async reporting system — **80% query latency improvement**, **3× DAU growth to 500k+**; designed data retention for **2TB+ logs** — **45% storage cost reduction**; engineered **1-tap checkout** — **28% order completion boost**; integrated **8 payment gateways** with failover — **99.97% success rate** at **5k TPS**
+- **Fin-tech (WazirX):** Architected multi-currency ledgers & idempotent payment pipelines; redesigned trading engine from market-centric to unified in-memory exchange — **99.5% → 99.99% uptime**, **35% latency reduction**, **100k orders/sec** throughput, **5× throughput improvement** across 10+ markets
+- **Food-tech (Hungerbox):** Built high-throughput async reporting system — **80% query latency improvement**, **3× DAU growth to 500k+**; designed data retention for **2TB+ logs** — **45% storage cost reduction**; engineered **1-tap checkout** — **28% order completion boost**; integrated **8 payment gateways** with failover — **99.97% success rate** at **5k TPS**
 - **Travel-tech (Mystifly):** Directed **Azure → GCP migration** — **30% cost reduction**, **99.95% availability**; led technical debt reduction — **25% latency decrease** across 6 microservices; managed 8-engineer team with **40% on-time delivery improvement**
-- **EdTech (Petoo.in):** Scaled full-stack ordering platform from inception — **100k monthly transactions**, **35% cart abandonment reduction**, **99.8% uptime**; built event-driven inventory sync across **50+ vendor SKUs** — discrepancies **12% → <0.5%**
+- **Food-tech (Petoo.in):** Scaled full-stack ordering platform from inception — **100k monthly transactions**, **35% cart abandonment reduction**, **99.8% uptime**; built event-driven inventory sync across **50+ vendor SKUs** — discrepancies **12% → <0.5%**
 
 ---
 
@@ -56,14 +56,6 @@ Architecting AI-enabled platforms for enterprise clients across e-commerce, edte
 
 ---
 
-### 📂 Featured Architecture & Reference Projects
-
-- [`system-architecture-blueprints`](https://github.com/us190190/system-architecture-blueprints): Production-grade reference code for distributed systems.
-- [`distributed-rate-limiter`](https://github.com/us190190/distributed-rate-limiter): Low-latency rate limiting service with Redis & Go.
-- *More projects showcasing AI agents, event-driven architectures, and high-throughput systems — see repositories.*
-
----
-
 ### 🎓 Education & Credentials
 
 - **PG Diploma in Machine Learning & AI** — IIIT Bangalore (2019), CGPA: 3.53/4
@@ -74,4 +66,4 @@ Architecting AI-enabled platforms for enterprise clients across e-commerce, edte
 
 ### 📫 Connect
 
-[GitHub](https://github.com/us190190) • [LinkedIn](https://linkedin.com/in/us190190/) • [Email](mailto:utkarsh.singh@iiitb.net)
+[LinkedIn](https://linkedin.com/in/us190190/) • [Email](mailto:utkarsh.singh@iiitb.net)
