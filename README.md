@@ -1,4 +1,4 @@
-# Hi, I'm Utkarsh Singh 👋
+# Hi, I'm Utkarsh 👋
 
 **Software Engineer** | 12+ Years Building & Scaling 0→1 Systems | AI/GenAI Platform Architect
 
