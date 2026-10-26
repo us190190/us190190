@@ -28,12 +28,12 @@ Architecting AI-enabled platforms for enterprise clients across e-commerce, edte
 
 ### 🛠 Tech Stack & Architecture
 
-**AI / GenAI:** LangGraph, MCP (Model Context Protocol), Generative AI, Agentic Workflows, RAG, LLM Orchestration  
-**Backend & Languages:** Python, Go, Java, Node.js, TypeScript, Ruby on Rails, .NET, PHP  
-**Data & Storage:** PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ, Redshift, DynamoDB  
-**Infrastructure & Cloud:** AWS, GCP, Azure, Kubernetes, Docker, Terraform, Lambda, EC2, RDS, S3, API Gateway  
-**Observability & Performance:** Datadog, NewRelic, Grafana, OpenTelemetry, Gatling, Locust, gRPC, REST  
-**Leadership & Strategy:** Engineering Strategy & Roadmap Planning, Technical Team Building, Stakeholder Management, Cross-functional Collaboration, OKR Planning, Cloud Migration, Cost Optimization
+- **AI / GenAI:** LangGraph, MCP (Model Context Protocol), Generative AI, Agentic Workflows, RAG, LLM Orchestration  
+- **Backend & Languages:** Python, Go, Java, Node.js, TypeScript, Ruby on Rails, .NET, PHP  
+- **Data & Storage:** PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ, Redshift, DynamoDB  
+- **Infrastructure & Cloud:** AWS, GCP, Azure, Kubernetes, Docker, Terraform, Lambda, EC2, RDS, S3, API Gateway  
+- **Observability & Performance:** Datadog, NewRelic, Grafana, OpenTelemetry, Gatling, Locust, gRPC, REST  
+- **Leadership & Strategy:** Engineering Strategy & Roadmap Planning, Technical Team Building, Stakeholder Management, Cross-functional Collaboration, OKR Planning, Cloud Migration, Cost Optimization
 
 ---
 
